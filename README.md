@@ -14,10 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/juanvp19529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juanvp19529" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juan alejandro villodres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan alejandro villodres" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-alejandro-villodres-perdomo-756a88246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan alejandro villodres" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30456125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30456125" height="30" width="40" /></a>
 <a href="https://instagram.com/jualewandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jualewandro" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/juan villodres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juan villodres" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Javp19529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juan villodres" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
