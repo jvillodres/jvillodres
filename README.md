@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Villodres</h1>
-<h3 align="center">An Electronic Engineer 🔌⚡ Enthusiast in the design of embedded systems and electronic instrumentation with an emphasis on biomedical 🫀📱</h3>
+<h3 align="center">An Electronic Engineer 🔌⚡ Enthusiast in the design of embedded systems and electronic instrumentation with an emphasis on autonomous vehicles 🚗📱</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvillodres" alt="jvillodres" /></a> </p>
 
@@ -13,11 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/juanvp19529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juanvp19529" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juan-alejandro-villodres-perdomo-756a88246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan alejandro villodres" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/30456125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="30456125" height="30" width="40" /></a>
 <a href="https://instagram.com/jualewandro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jualewandro" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Javp19529" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juan villodres" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvillodres&show_icons=true&locale=en&layout=compact" alt="jvillodres" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvillodres&show_icons=true&locale=en" alt="jvillodres" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvillodres&" alt="jvillodres" /></p>
