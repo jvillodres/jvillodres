@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Villodres</h1>
 <h3 align="center">An Electronic Engineer 🔌⚡ Enthusiast in the design of embedded systems and electronic instrumentation with an emphasis on autonomous vehicles 🚗📱</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvillodres" alt="jvillodres" /></a> </p>
-
 - 🔭 I’m currently working on **my grade thesis of semi-autonomous vehicle with integration of innovative safety systems**
 
 - 🌱 I’m currently learning **Real Time Operating Systems and Embedded Systems**
