@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Villodres</h1>
 <h3 align="center">An Electronic Engineer 🔌⚡ Enthusiast in the design of embedded systems and electronic instrumentation with an emphasis on autonomous vehicles 🚗📱</h3>
 
-- 🔭 I’m currently working on **semi-autonomous vehicle with integration of safety systems**
+- 🔭 I’m currently working on **External peripherals drivers for STM32**
 
-- 🌱 I’m currently learning **Real Time Operating Systems and Embedded Systems**
+- 🌱 I’m currently learning **RTOS and Embedded Systems**
 
 - 👨‍💻 All of my projects are available at [github.com/jvillodres](https://github.com/jvillodres)
 
